@@ -16,7 +16,7 @@
     <div class="wrapper">
         <nav class="nav flex-column flex-nowrap vh-100 overflow-auto text-white p-2" id="sidebar">
             <div class="sidebar_header">
-                <h3>Dashboard</h3>
+                <h3>Dashboard New</h3>
                 <hr>
             </div>
             <ul class="list-unstyled components">
