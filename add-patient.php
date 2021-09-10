@@ -19,7 +19,7 @@
 </head>
 <body class="dashboard">
     <div class="wrapper">
-        <nav id="sidebar"  >
+        <nav class="nav flex-column flex-nowrap vh-100 overflow-auto text-white p-2" id="sidebar">
             <div class="sidebar_header">
                 <h3>Dashboard</h3>
                 <hr>
